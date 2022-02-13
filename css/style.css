@@ -1,0 +1,25 @@
+.tablo {
+    border: 0;
+    width: 90%;
+}
+
+.search-box {
+    background-color: #EEEEEE;
+}
+
+.first-box {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.second-box {
+    background-color: #70CCC2;
+}
+
+.third-box {
+    background-color: #62B3AA;
+}
+
+.fs-1 {
+    font-size: small;
+}
